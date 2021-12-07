@@ -1,0 +1,25 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+img{
+  height:250px;
+  float:left;
+  width:240px;
+
+}
+.myImage {
+  background-image: url("Battlefield.jpg");
+}
+style{
+  width:100%
+}
+table, th, td {
+  border:1px solid black;
+}
